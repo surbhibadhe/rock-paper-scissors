@@ -20,7 +20,7 @@ def check_win(player, computer):
 
     
     elif player == "rock" :
-        if computer == "scisors" :
+        if computer == "scissors" :
             return "Rock smashes scissors! You win!"
         else :
             return "Paper covers rock! You lose."
@@ -34,7 +34,7 @@ def check_win(player, computer):
     
     elif player == "scissors" :
         if computer == "paper" :
-            return "Scissors cuts paper!. You lose."
+            return "Scissors cuts paper!. You win!"
         else :
             return "Rock smashes scissors! You lose."
     
