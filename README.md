@@ -27,4 +27,4 @@ Rock smashes scissors! You win!
 
 ## Author
 
-Made by Surbhi Badhe
+Made by - Surbhi Badhe
